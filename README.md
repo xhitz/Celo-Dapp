@@ -35,7 +35,9 @@ npm run dev
 ### Build
 ```
 npm run build
-
-### TO DO
 ```
+
+
+### To Do:
+
 Finish minting feature
